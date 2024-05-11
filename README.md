@@ -1,16 +1,26 @@
-### Hi there 👋
+# Jack Burky
 
-<!--
-**jsburky/jsburky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Introduction
 
-Here are some ideas to get you started:
+Hi there! I'm Jack, an electrical engineering student at Purdue University. I'm passionate about working with embedded systems.
+I plan on using my knowledge of embedded systems to create unique projects and upload the code and full documentation for others to use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Skills
+
+- **Programming Languages:** Python, Java, JavaScript, C, MATLAB
+- **Frameworks/Libraries:** React.js, TensorFlow, Flask 
+- **Tools/Technologies:** Arduino, Raspberry Pi, ESP32
+
+##  Projects
+
+- [LED Album Cover (2024)](https://github.com/jsburky/LED-Album-Cover): This project displays the album cover of the currently playing song on the user's Spotify to a 64x64 LED matrix
+
+##  Contact Me
+
+- LinkedIn: [@jsburky](https://www.linkedin.com/in/jack-burky-8b88a6270/)
+
+##  Connect with Me
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jack-burky-8b88a6270/)! I'm always open to interesting conversations and collaboration opportunities.
+
+
