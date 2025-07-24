@@ -2,7 +2,7 @@
 
 ## 👋 Introduction
 
-Hi there! I'm Jack, an electrical engineering student at Purdue University. I'm passionate about working with embedded systems.
+I'm Jack, an electrical engineering student at Purdue University. I'm passionate about working with embedded systems.
 I plan on using my knowledge of embedded systems to create unique projects and upload the code and full documentation for others to use.
 
 ##  Skills
