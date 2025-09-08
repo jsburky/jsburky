@@ -8,6 +8,9 @@ I plan on using my knowledge of embedded systems to create unique projects and u
 ##  Projects
 
 - [LED Album Cover (2024)](https://github.com/jsburky/LED-Album-Cover): This project displays the album cover of the currently playing song on the user's Spotify to a 64x64 LED matrix (Currently adding new displays and functionality for the matrix)
+- [PCB Business Card (2025)](https://github.com/jsburky/pcb-business-card): This was a summer hardware project of mine to make a simple PCB business card with intigrated RFID.
+
+## Resume
 
 ##  Connect with Me
 
