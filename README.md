@@ -12,6 +12,8 @@ I plan on using my knowledge of embedded systems to create unique projects and u
 
 ## Resume
 
+Check out my [Resume](https://github.com/jsburky/jsburky/blob/main/resume/Jack_Burky_Resume.pdf)
+
 ##  Connect with Me
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jack-burky-8b88a6270/)! I'm always open to interesting conversations and collaboration opportunities.
