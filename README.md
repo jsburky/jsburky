@@ -12,7 +12,7 @@ I plan on using my knowledge of embedded systems to create unique projects and u
 
 ## Resume
 
-Check out my [Resume](https://github.com/jsburky/jsburky/blob/main/resume/Jack_Burky_Resume.pdf)
+Check out my [Resume](https://github.com/jsburky/jsburky/blob/main/resume/Jack_Burky_Resume.pdf).
 
 ##  Connect with Me
 
