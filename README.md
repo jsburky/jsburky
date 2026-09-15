@@ -1,22 +1,50 @@
 # Jack Burky
 
-## Introduction
+Electrical Engineering student at **Purdue University** interested in **Mixed-signal circuits, embedded systems, PCB design, and low-noise electronics**.
 
-I'm Jack, an electrical engineering student at Purdue University. I'm passionate about making cool IoT projects.
-I plan on using my knowledge of embedded systems to create unique projects and upload the code and full documentation for others to use.
+I enjoy building hardware from the circuit level up and developing the software needed to control, test, and automate it. This GitHub is where I document projects so others can understand, build, and modify them.
 
-##  Projects
+## Featured Projects
 
-- [LED Display (2026)](https://github.com/jsburky/LED-Display): This is an extension of the LED Album Cover project for a more general display and simple install process. Features a display with: time, date, weather and, a stock ticker.
-- [PCB Business Card (2025)](https://github.com/jsburky/pcb-business-card): This was a summer hardware project of mine to make a simple PCB business card with intigrated RFID.
-- [LED Album Cover (2024)](https://github.com/jsburky/LED-Album-Cover): This project displays the album cover of the currently playing song on the user's Spotify to a 64x64 LED matrix (Currently being migrated to LED Display)
+### [LED Display](https://github.com/jsburky/LED-Display) (2026)
 
-## Resume
+Raspberry Pi–powered 64×64 RGB LED information display featuring a clock, calendar, local weather, stock ticker, keypad controls, and automatic startup.
 
-Check out my [Resume](https://github.com/jsburky/jsburky/blob/main/resume/John_Burky_Resume.pdf).
+* Python
+* Raspberry Pi
+* Linux / systemd
+* REST APIs
+* HUB75 RGB LED matrix
 
-##  Connect with Me
+### [PCB Business Card](https://github.com/jsburky/pcb-business-card) (2025)
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jack-burky-8b88a6270/)! I'm always open to interesting conversations and collaboration opportunities.
+Custom PCB business card designed in Altium with integrated NFC/RFID functionality.
 
+* PCB design and layout
+* NFC/RFID
+* Altium Designer
+* Hardware prototyping
 
+### [LED Album Cover](https://github.com/jsburky/LED-Album-Cover) (2024)
+
+64×64 RGB LED matrix that connects to Spotify and displays the album artwork of the currently playing song.
+
+* Python
+* Raspberry Pi
+* Spotify API
+* Image processing
+* Embedded displays
+
+## Areas of Interest
+
+* ASIC / Digital IC Design
+* Analog & Mixed-Signal Circuits
+* Embedded Systems
+* PCB Design
+* Low-Noise Electronics
+* Signal Processing
+* Hardware Automation & Test
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/jack-burky) · [Resume](https://github.com/jsburky/jsburky/resume/John_Burky_Resume.pdf)
