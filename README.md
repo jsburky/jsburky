@@ -47,4 +47,4 @@ Custom PCB business card designed in Altium with integrated NFC/RFID functionali
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/jack-burky) · [Resume](https://github.com/jsburky/jsburky/resume/John_Burky_Resume.pdf)
+[LinkedIn](https://www.linkedin.com/in/jack-burky) · [Resume](https://github.com/jsburky/jsburky/blob/main/resume/John_Burky_Resume.pdf)
